@@ -1,3 +1,45 @@
 ﻿<Properties StartupConfiguration="{715F1329-2847-4768-AEF0-3FE7AF9C7C05}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Areas/Customer/Views/_ViewStart.cshtml">
+    <Files>
+      <File FileName="Startup.cs" Line="65" Column="47" />
+      <File FileName="Areas/Customer/Controllers/HomeController.cs" Line="12" Column="20" />
+      <File FileName="Areas/Admin/Views/_ViewStart.cshtml" Line="3" Column="1" />
+      <File FileName="Areas/Customer/Views/_ViewStart.cshtml" Line="3" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Spice" expanded="True">
+            <Node name="Spice" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Areas" expanded="True">
+                <Node name="Admin" expanded="True">
+                  <Node name="Views" expanded="True" />
+                </Node>
+                <Node name="Customer" expanded="True">
+                  <Node name="Controllers" expanded="True" />
+                  <Node name="Views" expanded="True">
+                    <Node name="_ViewStart.cshtml" selected="True" />
+                  </Node>
+                </Node>
+                <Node name="Identity" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Spice PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
