@@ -14374,6 +14374,21 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/dillon/dotnet/Spice/Views/Shared/_CreateButtonPartial.cshtml",
+      "TargetPath": "Views/Shared/_CreateButtonPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/dillon/dotnet/Spice/Views/Shared/_TableButtonPartial.cshtml",
+      "TargetPath": "Views/Shared/_TableButtonPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/dillon/dotnet/Spice/Views/Shared/_CreateAndBackToListButton.cshtml",
+      "TargetPath": "Views/Shared/_CreateAndBackToListButton.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/dillon/dotnet/Spice/Views/Shared/_LoginPartial.cshtml",
       "TargetPath": "Views/Shared/_LoginPartial.cshtml",
       "FileKind": "mvc"
@@ -14384,13 +14399,28 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/dillon/dotnet/Spice/Views/Shared/_ViewImports.cshtml",
+      "TargetPath": "Views/Shared/_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/dillon/dotnet/Spice/Areas/Customer/Views/Home/Privacy.cshtml",
       "TargetPath": "Areas/Customer/Views/Home/Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/dillon/dotnet/Spice/Areas/Admin/Views/Category/Index.cshtml",
+      "TargetPath": "Areas/Admin/Views/Category/Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/dillon/dotnet/Spice/Views/_ViewStart.cshtml",
       "TargetPath": "Views/_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/dillon/dotnet/Spice/Areas/Admin/Views/Category/Create.cshtml",
+      "TargetPath": "Areas/Admin/Views/Category/Create.cshtml",
       "FileKind": "mvc"
     }
   ],

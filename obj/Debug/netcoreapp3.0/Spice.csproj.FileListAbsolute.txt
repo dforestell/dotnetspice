@@ -379,3 +379,9 @@
 /Users/dillon/dotnet/Spice/obj/Debug/netcoreapp3.0/Spice.csproj.CopyComplete
 /Users/dillon/dotnet/Spice/obj/Debug/netcoreapp3.0/Spice.dll
 /Users/dillon/dotnet/Spice/obj/Debug/netcoreapp3.0/Spice.pdb
+/Users/dillon/dotnet/Spice/obj/Debug/netcoreapp3.0/Spice.csprojAssemblyReference.cache
+/Users/dillon/dotnet/Spice/obj/Debug/netcoreapp3.0/Razor/Areas/Admin/Views/Category/Index.cshtml.g.cs
+/Users/dillon/dotnet/Spice/obj/Debug/netcoreapp3.0/Razor/Areas/Admin/Views/Category/Create.cshtml.g.cs
+/Users/dillon/dotnet/Spice/obj/Debug/netcoreapp3.0/Razor/Views/Shared/_CreateButtonPartial.cshtml.g.cs
+/Users/dillon/dotnet/Spice/obj/Debug/netcoreapp3.0/Razor/Views/Shared/_ViewImports.cshtml.g.cs
+/Users/dillon/dotnet/Spice/obj/Debug/netcoreapp3.0/Razor/Views/Shared/_CreateAndBackToListButton.cshtml.g.cs
