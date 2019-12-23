@@ -1,10 +1,14 @@
 ﻿<Properties StartupConfiguration="{715F1329-2847-4768-AEF0-3FE7AF9C7C05}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Areas/Customer/Views/_ViewStart.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Data/Migrations/00000000000000_CreateIdentitySchema.Designer.cs">
     <Files>
-      <File FileName="Startup.cs" Line="65" Column="47" />
+      <File FileName="Startup.cs" Line="31" Column="37" />
       <File FileName="Areas/Customer/Controllers/HomeController.cs" Line="12" Column="20" />
       <File FileName="Areas/Admin/Views/_ViewStart.cshtml" Line="3" Column="1" />
       <File FileName="Areas/Customer/Views/_ViewStart.cshtml" Line="3" Column="1" />
+      <File FileName="appsettings.json" Line="14" Column="1" />
+      <File FileName="app.db" />
+      <File FileName="Data/Migrations/00000000000000_CreateIdentitySchema.cs" Line="55" Column="1" />
+      <File FileName="Data/Migrations/00000000000000_CreateIdentitySchema.Designer.cs" Line="46" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,22 +16,16 @@
           <Node name="Spice" expanded="True">
             <Node name="Spice" expanded="True">
               <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
                 <Node name="PackageDependencies" expanded="True" />
               </Node>
-              <Node name="Areas" expanded="True">
-                <Node name="Admin" expanded="True">
-                  <Node name="Views" expanded="True" />
-                </Node>
-                <Node name="Customer" expanded="True">
-                  <Node name="Controllers" expanded="True" />
-                  <Node name="Views" expanded="True">
-                    <Node name="_ViewStart.cshtml" selected="True" />
+              <Node name="Data" expanded="True">
+                <Node name="Migrations" expanded="True">
+                  <Node name="00000000000000_CreateIdentitySchema.cs" expanded="True">
+                    <Node name="00000000000000_CreateIdentitySchema.Designer.cs" selected="True" />
                   </Node>
                 </Node>
-                <Node name="Identity" expanded="True" />
               </Node>
-              <Node name="Models" expanded="True" />
-              <Node name="Properties" expanded="True" />
               <Node name="Views" expanded="True" />
             </Node>
           </Node>
