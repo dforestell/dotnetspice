@@ -392,3 +392,4 @@
 /Users/dillon/dotnet/Spice/obj/Debug/netcoreapp3.0/Razor/Views/Shared/_DeleteAndBackToListButton.cshtml.g.cs
 /Users/dillon/dotnet/Spice/obj/Debug/netcoreapp3.0/Razor/Views/Shared/_DetailsAndBackToListButton.cshtml.g.cs
 /Users/dillon/dotnet/Spice/obj/Debug/netcoreapp3.0/Razor/Areas/Admin/Views/Category/Details.cshtml.g.cs
+/Users/dillon/dotnet/Spice/obj/Debug/netcoreapp3.0/Razor/Areas/Admin/Views/SubCategory/Index.cshtml.g.cs
