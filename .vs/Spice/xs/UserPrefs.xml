@@ -1,12 +1,14 @@
 ﻿<Properties StartupConfiguration="{715F1329-2847-4768-AEF0-3FE7AF9C7C05}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Models/Category.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Areas/Admin/Views/Details.cshtml">
     <Files>
-      <File FileName="Areas/Admin/Controllers/CategoryController.cs" Line="95" Column="1" />
+      <File FileName="Areas/Admin/Controllers/CategoryController.cs" Line="104" Column="28" />
       <File FileName="Areas/Admin/Views/Category/Edit.cshtml" Line="35" Column="2" />
       <File FileName="Views/Shared/_EditAndBackToListButton.cshtml" Line="10" Column="7" />
       <File FileName="Areas/Admin/Views/Delete.cshtml" Line="18" Column="39" />
       <File FileName="Views/Shared/_DeleteAndBackToLustButton.cshtml" Line="1" Column="1" />
-      <File FileName="Models/Category.cs" Line="11" Column="19" />
+      <File FileName="Models/Category.cs" Line="11" Column="39" />
+      <File FileName="Views/Shared/_DetailsAndBackToListButton.cshtml" Line="1" Column="2" />
+      <File FileName="Areas/Admin/Views/Details.cshtml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -19,12 +21,11 @@
                   <Node name="Controllers" expanded="True" />
                   <Node name="Views" expanded="True">
                     <Node name="Category" expanded="True" />
+                    <Node name="Details.cshtml" selected="True" />
                   </Node>
                 </Node>
               </Node>
-              <Node name="Models" expanded="True">
-                <Node name="Category.cs" selected="True" />
-              </Node>
+              <Node name="Models" expanded="True" />
               <Node name="Views" expanded="True">
                 <Node name="Shared" expanded="True" />
               </Node>
