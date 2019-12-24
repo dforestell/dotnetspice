@@ -31,6 +31,8 @@
     <Folder Include="Areas\Admin\Views\Category\" />
     <Folder Include="wwwroot\images\" />
     <Folder Include="Areas\Admin\Views\SubCategory\" />
+    <Folder Include="Models\ViewModels\" />
+    <Folder Include="Extensions\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="Views\Shared\Error.cshtml" />
